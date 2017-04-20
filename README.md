@@ -1,2 +1,2 @@
-# only-post
+# OnlyPost
 A sina weibo client only post.
